@@ -1,5 +1,76 @@
-# Fast-Radio-Bursts (FRBs)
-Este repositório foi criado com o intuito de armazenar códigos importantes utilizados na pesquisa sobre Fast Radio Bursts (FRBs).
+# Fast-Radio-Bursts
 
-O objetivo é centralizar implementações, simulações, análises e ferramentas desenvolvidas ao longo da pesquisa, facilitando a organização, 
-a reprodução dos resultados e o compartilhamento do código.
+Este repositório foi criado para armazenar os códigos, simulações, notebooks, documentação e demais recursos utilizados na pesquisa de mestrado sobre **Fast Radio Bursts (FRBs)**.
+
+O principal objetivo é centralizar o desenvolvimento computacional do projeto, garantindo a organização, rastreabilidade e reprodutibilidade das implementações realizadas ao longo da pesquisa. Para isso, o repositório reúne códigos em desenvolvimento, configurações de simulações, análises de dados, documentação técnica e ferramentas auxiliares utilizadas durante o estudo.
+
+A infraestrutura foi concebida para facilitar o controle de versões, a recuperação de alterações, o compartilhamento do projeto e a reutilização dos resultados, contribuindo para o desenvolvimento da dissertação e de futuras publicações científicas.
+
+## Estrutura do projeto
+
+```
+Fast-Radio-Bursts/
+│
+├── docs/             # documentação
+├── notebooks/        # notebooks Jupyter
+├── src/              # códigos em Python
+├── simulations/      # casos de simulação PLUTO
+├── data/             # dados de entrada
+├── results/          # resultados
+├── figures/          # figuras
+├── thesis/           # dissertação
+├── papers/           # artigo científico
+└── README.md
+```
+
+---
+
+## Ambiente computacional
+
+Sistema operacional:
+
+- Ubuntu 24.04 LTS
+
+Principais dependências:
+
+- PLUTO 4.4 Patch 4
+- Chombo
+- MPI
+- HDF5
+- Python 3
+
+---
+
+## Versionamento
+
+O projeto utiliza Git e GitHub para:
+
+- controle de versões;
+- rastreabilidade das alterações;
+- recuperação de versões anteriores;
+- colaboração durante o desenvolvimento.
+
+---
+
+## Estado atual
+
+Atualmente o projeto encontra-se em fase inicial de desenvolvimento da infraestrutura computacional.
+
+Já foram implementados:
+
+- ambiente PLUTO;
+- compilação das dependências;
+- organização inicial dos diretórios;
+- testes iniciais do ambiente.
+
+---
+
+## Autor
+
+Bruno Ramos Galindo
+
+Mestrado em Astrofísica
+
+Instituto Nacional de Pesquisas Espaciais (INPE)
+
+Orientador: Prof. Dr. Márcio Guilherme Bronzato de Avellar
