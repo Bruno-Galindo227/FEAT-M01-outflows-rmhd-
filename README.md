@@ -11,16 +11,17 @@ A infraestrutura foi concebida para facilitar o controle de versões, a recupera
 ```
 Fast-Radio-Bursts/
 │
-├── docs/             # documentação
-├── notebooks/        # notebooks Jupyter
-├── src/              # códigos em Python
-├── simulations/      # casos de simulação PLUTO
-├── data/             # dados de entrada
-├── results/          # resultados
-├── figures/          # figuras
-├── thesis/           # dissertação
-├── papers/           # artigo científico
-└── README.md
+├── Ambiente Virtual/      # Ambiente virtual e configuração do projeto
+├── Notebooks/             # Jupyter Notebooks para análises e testes
+├── código/                # Scripts e códigos-fonte em Python
+├── Figures/               # Figuras utilizadas durante o desenvolvimento
+├── Simulations/           # Casos de simulação (PLUTO)
+├── data/                  # Dados de entrada e observações
+├── docs/                  # Documentação técnica do projeto
+├── papers/                # Artigos científicos e referências
+├── results/               # Resultados das simulações
+├── writing/               # Escrita da dissertação e relatórios
+└── README.md              # Descrição geral do projeto
 ```
 
 ---
