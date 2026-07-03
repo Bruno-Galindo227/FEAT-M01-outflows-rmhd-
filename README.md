@@ -1,4 +1,4 @@
-# Fast-Radio-Bursts
+# Fast-Radio-Bursts (FRBs)
 
 Este repositório foi criado para armazenar os códigos, simulações, notebooks, documentação e demais recursos utilizados na pesquisa de mestrado sobre **Fast Radio Bursts (FRBs)**.
 
