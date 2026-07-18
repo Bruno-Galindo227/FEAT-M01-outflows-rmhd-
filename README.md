@@ -8,23 +8,39 @@ A infraestrutura foi concebida para facilitar o controle de versões, a recupera
 
 ## Estrutura do projeto
 
-```
-Fast-Radio-Bursts/
+```text
+FEAT-M01-outflows-rmhd/
 │
-├── Ambiente Virtual/      # Ambiente virtual e configuração do projeto
-├── Notebooks/             # Jupyter Notebooks para análises e testes
-├── código/                # Scripts e códigos-fonte em Python
-├── Figures/               # Figuras utilizadas durante o desenvolvimento
-├── Simulations/           # Casos de simulação (PLUTO)
-├── data/                  # Dados de entrada e observações
-├── docs/                  # Documentação técnica do projeto
-├── papers/                # Artigos científicos e referências
-├── results/               # Resultados das simulações
-├── writing/               # Escrita da dissertação e relatórios
-└── README.md              # Descrição geral do projeto
+├── README.md                 # Descrição geral do projeto
+├── CHANGELOG.md              # Histórico de alterações
+├── requirements.txt          # Dependências Python
+├── environment.yml           # Ambiente Conda (opcional)
+│
+├── docs/                     # Documentação técnica
+│   ├── decisions/            # Decisões técnicas (ADRs)
+│   └── meetings/             # Atas de reuniões
+│
+├── notebooks/                # Jupyter Notebooks
+├── src/                      # Código-fonte
+│
+├── data/
+│   ├── raw/                  # Dados brutos
+│   ├── processed/            # Dados processados
+│   └── external/             # Dados externos
+│
+├── simulations/
+│   ├── pluto/                # Casos de simulação PLUTO
+│   └── test_cases/           # Testes
+│
+├── results/
+│   ├── figures/              # Figuras geradas
+│   ├── tables/               # Tabelas
+│   └── logs/                 # Logs das execuções
+│
+└── writing/
+    ├── dissertation/         # Escrita da dissertação
+    └── papers/               # Artigos e manuscritos
 ```
-
----
 
 ## Ambiente computacional
 
