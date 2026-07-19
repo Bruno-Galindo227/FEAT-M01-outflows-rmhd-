@@ -8,7 +8,7 @@ O **principal objetivo** deste repositório é centralizar o desenvolvimento com
 
 O objetivo do projeto **"Hipóteses de outflows relativísticos e Magnetares em cenários dinâmicos"** é análisar se simulações de magnetares recém formados de processos como a explosão de uma supernova ou fusão de objetos compactos, são capazes de gerar parâmetros condizentes com os obtidos na literatura ciéntifica para **FRBs** associados a magnetares. 
 
-A infraestrutura foi concebida para facilitar o controle de versões, a recuperação de alterações, o compartilhamento do projeto e a reutilização dos resultados, contribuindo para o desenvolvimento da dissertação e de futuras publicações científicas.
+A infraestrutura do **README** foi desenvolvida com o intuito do controle de versionamente, o registro de alterações, compartilhamento do projeto e a reutilização de resultados obtidos. 
 
 ## Estrutura do projeto
 
