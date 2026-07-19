@@ -2,11 +2,11 @@
 
 ## Fast-Radio-Bursts (FRBs)
 
-Este repositório foi criado para armazenar os códigos, simulações, notebooks, documentação e demais recursos utilizados na pesquisa de mestrado sobre **Fast Radio Bursts (FRBs)** desenvolvida para a história de usuário **FEAT-01**.
+Este repositório foi criado para armazenar os códigos, simulações, notebooks, documentação e demais recursos utilizados na história de usuário **FEAT-01**, desenvolvida para a pesquisa de mestrado sobre **Fast Radio Bursts (FRBs)**.
 
-O principal objetivo deste repósitorio é centralizar o desenvolvimento computacional do projeto, garantindo a organização, rastreabilidade e reprodutibilidade das implementações realizadas ao longo da pesquisa. Para isso, o repositório reúne códigos em desenvolvimento, configurações de simulações, análises de dados, documentação técnica e ferramentas auxiliares utilizadas durante o estudo. 
+O principal objetivo deste repositório é centralizar o desenvolvimento computacional do projeto, garantindo a organização, rastreabilidade e reprodutibilidade das implementações realizadas ao longo da pesquisa. Para isso, o repositório reúne códigos em desenvolvimento, configurações de simulações, análises de dados, documentação técnica e ferramentas auxiliares utilizadas durante o estudo. 
 
-O objetivo do projeto "Hipóteses de outflows relativísticos e Magnetares em cenários dinâmicos" é análisar se simulações de Magnetares recém formados de processos como a explosão de uma supernova ou fusão de objetos compactos, são capazes de gerar parâmetros condizentes com os obtidos na literatura ciéntifica para FRBs associados a Magnetares. 
+O objetivo do projeto "Hipóteses de outflows relativísticos e Magnetares em cenários dinâmicos" é análisar se simulações de magnetares recém formados de processos como a explosão de uma supernova ou fusão de objetos compactos, são capazes de gerar parâmetros condizentes com os obtidos na literatura ciéntifica para **FRBs** associados a Magnetares. 
 
 A infraestrutura foi concebida para facilitar o controle de versões, a recuperação de alterações, o compartilhamento do projeto e a reutilização dos resultados, contribuindo para o desenvolvimento da dissertação e de futuras publicações científicas.
 
