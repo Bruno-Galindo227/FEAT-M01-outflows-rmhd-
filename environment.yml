@@ -1,1 +1,36 @@
+name: frb-env
 
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+
+  # Computação científica
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+
+  # Astronomia
+  - astropy
+
+  # Arquivos HDF5
+  - h5py
+
+  # Notebooks
+  - jupyterlab
+  - ipykernel
+
+  # Utilidades
+  - tqdm
+  - pyyaml
+
+  # Testes
+  - pytest
+
+  - pip
+
+  - pip:
+      - yt
