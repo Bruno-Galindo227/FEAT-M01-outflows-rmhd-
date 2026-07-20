@@ -17,7 +17,6 @@ FEAT-M01-outflows-rmhd/
 │
 ├── README.md                 # Descrição geral do projeto
 ├── CHANGELOG.md              # Histórico de alterações
-├── requirements.txt          # Dependências Python
 ├── environment.yml           # Dependências Python
 │
 ├── docs/                     # Documentação técnica
