@@ -74,7 +74,7 @@ O projeto utiliza Git e GitHub para:
 ## Comandos 
 
  1. Criar o ambiente Conda
-conda env create -f environment.yml
+`conda env create -f environment.yml`
  2. Ativar o ambiente
 conda activate feat-m01-outflows-rmhd
  3. Registrar o ambiente como kernel do Jupyter
