@@ -50,10 +50,10 @@ FEAT-M01-outflows-rmhd/
 │   └── test_cases/           # Testes
 │
 ├── results/
-│   ├── figures/              # Figuras geradas
-│   ├── tables/               # Tabelas
-│   └── logs/                 # Logs das execuções
-│
+│   ├── figures/                  # Figuras geradas
+│   ├── tables/                   # Tabelas
+│   └── logs/                     # Logs das execuções
+│        └── 00_sanity_check.txt
 └── writing/
     ├── dissertation/         # Escrita da dissertação
     └── papers/               # Artigos e manuscritos
