@@ -59,7 +59,7 @@ FEAT-M01-outflows-rmhd/
     └── papers/               # Artigos e manuscritos
 ```
 
-## Ambiente computacional
+## Dependências do sistema
 
 Sistema operacional:
 
@@ -77,7 +77,7 @@ Principais dependências:
 
 ## Versionamento
 
-O projeto utiliza Git e GitHub para:
+O projeto utiliza GitHub para:
 
 - controle de versões;
 - rastreabilidade das alterações;
