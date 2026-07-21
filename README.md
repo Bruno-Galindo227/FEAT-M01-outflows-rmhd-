@@ -76,11 +76,11 @@ O projeto utiliza Git e GitHub para:
  1. Criar o ambiente Conda
 `conda env create -f environment.yml`
  2. Ativar o ambiente
-conda activate feat-m01-outflows-rmhd
+`conda activate feat-m01-outflows-rmhd`
  3. Registrar o ambiente como kernel do Jupyter
-python -m ipykernel install --user \
+`python -m ipykernel install --user \
 --name feat-m01-outflows-rmhd \
---display-name "FEAT-M01 Outflows RMHD"
+--display-name "FEAT-M01 Outflows RMHD"`
 
 ---
 
