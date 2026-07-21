@@ -19,12 +19,14 @@ FEAT-M01-outflows-rmhd/
 ├── CHANGELOG.md              # Histórico de alterações
 ├── environment.yml           # Dependências Python
 │
-├── docs/                     # Documentação técnica
-│   ├── decisions/            # Decisões técnicas (ADRs)
-│   └── meetings/             # Atas de reuniões
+├── docs/                       # Documentação técnica
+│   ├── decisions/              # Decisões técnicas (ADRs)
+│   ├── meetings/               # Atas de reuniões
+|   └── system_dependencies.md
 │
 ├── notebooks/                # Jupyter Notebooks
 ├── src/                      # Código-fonte
+     └── 00_sanity_check.py
 │
 ├── data/
 │   ├── raw/                  # Dados brutos
