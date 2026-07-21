@@ -1,0 +1,9 @@
+Sanity check executado com sucesso!
+
+Python: 3.11.15 (main, Jun 11 2026, 15:20:16) [GCC 14.3.0]
+NumPy: 2.4.6
+Pandas: 3.0.3
+Matplotlib: 3.11.0
+Astropy: 8.0.1
+h5py: 3.16.0
+Resultado: [0.0, 6.25, 25.0, 56.25, 100.0]
