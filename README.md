@@ -38,7 +38,7 @@ FEAT-M01-outflows-rmhd/
 │
 ├── notebooks/                # Jupyter Notebooks
 ├── src/                      # Código-fonte
-     └── 00_sanity_check.py
+|    └── 00_sanity_check.py
 │
 ├── data/
 │   ├── raw/                  # Dados brutos
