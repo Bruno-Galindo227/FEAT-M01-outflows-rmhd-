@@ -1,5 +1,17 @@
 # FEAT-M01-outflows-rmhd
 
+## Autor
+
+Bruno Ramos Galindo
+
+Mestrado em Astrofísica
+
+Instituto Nacional de Pesquisas Espaciais (INPE)
+
+Orientador: Prof. Dr. Márcio Guilherme Bronzato de Avellar
+
+---
+
 ## Fast-Radio-Bursts (FRBs)
 
 Este repositório foi criado para armazenar os códigos, simulações, notebooks, documentação e demais recursos utilizados na história de usuário **FEAT-01**, desenvolvida para a pesquisa de mestrado sobre **Fast Radio Bursts (FRBs)**.
@@ -105,14 +117,3 @@ Atualmente, as limitações devem-se ao fato do ambiente para processo computaci
 
 Como próximos passos, busca-se a documentação de novos experimentos, implementação dos casos envolvendo RMHD, integração de notebooks com a linguagem de programação \texttt{Python} para visualização dos resultados, analisar outros códigos de simulação de plasma como o \texttt{Athena++} ou \texttt{FLASH}, além da utilização de \textit{hardwares} com mais eficiência e capacidade computacional para processamento dos dados.
 
---- 
-
-## Autor
-
-Bruno Ramos Galindo
-
-Mestrado em Astrofísica
-
-Instituto Nacional de Pesquisas Espaciais (INPE)
-
-Orientador: Prof. Dr. Márcio Guilherme Bronzato de Avellar
