@@ -99,6 +99,13 @@ Já foram implementados:
 - testes iniciais do ambiente.
 
 ---
+## Limitações e próximos passos
+
+Atualmente, as limitações devem-se ao fato do ambiente para processo computacional se encontrar em etapa inicial, pois poucos testes foram implementados e a estrutura ainda se encontra passível de ajustes de acordo com as futuras necessidades. Além disso, há limitações de \textit{hardwares} que dificultam a realização de simulações computacionais acarretadas pelo alto custo computacional dos processadores e limitações da máquina utilizada para implementação dos códigos.
+
+Como próximos passos, busca-se a documentação de novos experimentos, implementação dos casos envolvendo RMHD, integração de notebooks com a linguagem de programação \texttt{Python} para visualização dos resultados, analisar outros códigos de simulação de plasma como o \texttt{Athena++} ou \texttt{FLASH}, além da utilização de \textit{hardwares} com mais eficiência e capacidade computacional para processamento dos dados.
+
+--- 
 
 ## Autor
 
