@@ -71,6 +71,18 @@ O projeto utiliza Git e GitHub para:
 - colaboração durante o desenvolvimento.
 
 ---
+## Comandos 
+
+# 1. Criar o ambiente Conda
+conda env create -f environment.yml
+# 2. Ativar o ambiente
+conda activate feat-m01-outflows-rmhd
+# 3. Registrar o ambiente como kernel do Jupyter
+python -m ipykernel install --user \
+--name feat-m01-outflows-rmhd \
+--display-name "FEAT-M01 Outflows RMHD"
+
+---
 
 ## Estado atual
 
