@@ -3,9 +3,9 @@
 Este arquivo registra as alterações relevantes realizadas
 no projeto FEAT-M01-outflows-rmhd.
 
-O histórico é organizado por versão e data, com o objetivo
-de facilitar o acompanhamento da evolução da infraestrutura
-computacional e das implementações científicas.
+O histórico é organizado por versão e data, facilitando o
+acompanhamento da evolução da infraestrutura computacional
+e das implementações científicas.
 
 ## [0.1.0] - 2026-10-18
 
@@ -15,7 +15,7 @@ computacional e das implementações científicas.
 - Arquivo `README.md` com a descrição e a organização do projeto.
 - Arquivo `environment.yml` para especificação das dependências Python.
 - Script `src/00_sanity_check.py` para verificação inicial do ambiente.
-- Registro dos resultados do teste em `results/logs/00_sanity_check.txt`.
+- Arquivo de log em `results/logs/00_sanity_check.txt`.
 - Diretórios para documentação, notebooks, simulações, dados,
   resultados e escrita científica.
 
