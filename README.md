@@ -95,8 +95,8 @@ O projeto utiliza GitHub para:
 `python -m ipykernel install --user \
 --name feat-m01-outflows-rmhd \
 --display-name "FEAT-M01 Outflows RMHD"`
-4. Executar o `sanity check
-python src/00_sanity_check.py`
+4. Executar o sanity check com
+`python src/00_sanity_check.py`
 ---
 
 ## Estado atual
