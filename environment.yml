@@ -1,4 +1,4 @@
-name: frb-env
+name: feat-m01-outflows-rmhd
 channels:
   - defaults
 dependencies:
@@ -264,4 +264,4 @@ dependencies:
       - tqdm==4.69.0
       - unyt==3.1.0
       - yt==4.4.2
-prefix: /home/usuario/anaconda3/envs/frb-env
+
